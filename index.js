@@ -1,0 +1,1 @@
+exports.Akismet = requre('./lib/akismet.js');

@@ -1,1 +1,1 @@
-exports.Akismet = requre('./lib/akismet.js');
+exports.Akismet = require('./lib/akismet.js');

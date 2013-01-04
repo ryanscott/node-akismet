@@ -1,6 +1,6 @@
 {
   "name": "node-akismet",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Integration with Akismet spam filtering for node.js",
   "main": "index.js",
   "repository": "",
